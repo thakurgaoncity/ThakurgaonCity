@@ -1,0 +1,7 @@
+{
+  "name": "Thakurgaon City App",
+  "description": "A comprehensive city service portal for Thakurgaon, providing marketplace, health, transport, and emergency services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
